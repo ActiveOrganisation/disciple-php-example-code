@@ -11,6 +11,6 @@ The Disciple Media team will point you to this:
 
 https://github.com/Disciple-Media/disciple-sample-code/tree/master/symmetric-encryption/php
 
-It says that you need a dependency: https://github.com/paragonie/random_compat (PHP 5.x)
+However, this code is really for testing via command line and not relevant for this use case.
 
-This is not the case when doing it via a web URL
+It says that you need a dependency: https://github.com/paragonie/random_compat (PHP 5.x). This is not the case when doing it via a web URL so just ignore the random dependency.
