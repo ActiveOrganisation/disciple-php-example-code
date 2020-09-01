@@ -12,7 +12,7 @@ $secret_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 # Now we hex2bin it
 $key = hex2bin($secret_key);
 
-# Get the variable "_dm" passed inthe URL
+# Get the variable "_dm" passed in the URL
 $input = $_GET['_dm'];
 
 # Call the function (in the file '/disciple/decrypt.php')
