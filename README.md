@@ -7,3 +7,10 @@ This repository is set up to, hopefully, save other people some time.
 2. Disciple Media need to provide you with a SECRET KEY - - This is different to your API Key (not to be confused) - make sure they provide this.
 
 
+The Disciple Media team will point you to this:
+
+https://github.com/Disciple-Media/disciple-sample-code/tree/master/symmetric-encryption/php
+
+It says that you need a dependency: https://github.com/paragonie/random_compat (PHP 5.x)
+
+This is not the case when doing it via a web URL
